@@ -1,1 +1,2 @@
 cout<<"the sum of A+b"<<a+b;
+cout<<"the substruct of A-b"<<a-b;
